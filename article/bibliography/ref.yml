@@ -1,0 +1,117 @@
+# yaml-language-server: $schema=https://www.schemastore.org/hayagriva.json
+coursebook:
+  type: book
+  title: Visual Analytics and Critical Thinking
+  author: Cruz Yomayusa, P. A.
+  publisher:
+    name: Ediciones USTA
+    location: Tunja
+
+datavis:
+  type: book
+  title: Data Visualisation A Handbook for Data Driven Design
+  author: Kirk, A.
+  date: 2019
+  publisher:
+    name: SAGE Publications
+
+geeksforgeeks-rfm-2025:
+  type: Web
+  title: R*FM analysis using Python
+  author: GeeksforGeeks
+  date: 2025-11-18
+  url: https://www.geeksforgeeks.org/data-analysis/rfm-analysis-analysis-using-python/
+
+arvai-kmeans-2023:
+  type: Web
+  title: K-Means Clustering in Python A Practical Guide
+  author: Arvai, K.
+  date: 2023-08-04
+  url: https://realpython.com/k-means-clustering-python/
+
+moffitt-market-basket-2017:
+  type: Web
+  title: Introduction to Market basket analysis in Python
+  author: Moffitt, C.
+  date: 2017-07-03
+  url: https://pbpython.com/market-basket-analysis.html
+
+mlxtend-apriori:
+  type: Web
+  title: Apriori - mlxtend Frequent itemsets via the Apriori algorithm
+  author: MLextend
+  url: https://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/
+
+uci-online-retail-2015:
+  type: Web
+  title: Online Retail
+  author: UC Irvine Machine Learning Repository
+  date: 2015
+  url: https://archive.ics.uci.edu/dataset/352/online+retail
+
+scikit-learn-pipelines:
+  type: Web
+  title: Pipelines and composite estimators
+  author: Scikit-learn
+  url: https://scikit-learn.org/stable/modules/compose.html
+
+scikit-learn-hyperparameters:
+  type: Web
+  title: Tuning the hyper-parameters of an estimator
+  author: Scikit-learn
+  url: https://scikit-learn.org/stable/modules/grid_search.html
+
+scikit-learn-neural-networks:
+  type: Web
+  title: Neural network models (supervised)
+  author: Scikit-learn
+  url: https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+
+kaggle-credit-card-fraud:
+  type: Web
+  title: Credit Card Fraud Detection
+  author: Machine Learning Group
+  date: 2021
+  url: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+bautista-hiperparametros-2026:
+  type: Web
+  title: Hiperparámetros
+  author: Bautista Rozo, L. X.
+  date: 2026
+  organization: Universidad Santo Tomás Tunja
+  url: https://usantotomaseduco-my.sharepoint.com/:b:/g/personal/dinstruccional_campusvirtual_ustatunja_edu_co/IQBg1gqbKcNYQ7usU3jLUnbvAeQau6RBuv0Qw_VcDQBEg4Y?e=DNasOf
+
+scikit-learn-decision-trees:
+  type: Web
+  title: Decision Trees
+  author: Scikit-learn
+  url: https://scikit-learn.org/stable/modules/tree.html
+
+scikit-learn-iris-decision-surface:
+  type: Web
+  title: Plot the decision surface of decision trees trained on the iris dataset
+  author: Scikit-learn
+  url: https://scikit-learn.org/stable/auto_examples/tree/plot_iris_dtc.html
+
+scikit-learn-ensembles:
+  type: Web
+  title: Ensembles Gradient boosting, random forests, bagging, voting, stacking
+  author: Scikit-learn
+  url: https://scikit-learn.org/stable/modules/ensemble.html
+
+sruthi-random-forest-2025:
+  type: Web
+  title: Random Forest algorithm in machine learning
+  author: Sruthi
+  date: 2025-10-06
+  organization: Analytics Vidhya
+  url: https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/
+
+wilber-santamaria-decision-trees:
+  type: Web
+  title: Decision Trees
+  author:
+    - Wilber, J.
+    - Santamaría, L.
+  url: https://mlu-explain.github.io/decision-tree/
